@@ -12,5 +12,4 @@ function findTwoSum(arr, target) {
     return null;
 }
 
-// console.log(findTwoSum([2, 7, 11, 15], 9));
 module.exports = findTwoSum;
